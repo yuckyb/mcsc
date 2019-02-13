@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/userConsole/userConsole",
+    "pages/storageConsole/storageConsole",
+    "pages/databaseGuide/databaseGuide",
+    "pages/addFunction/addFunction",
+    "pages/deployFunctions/deployFunctions",
+    "pages/chooseLib/chooseLib",
+    "pages/my/my"
+  ],
+  "window": {
+    "backgroundColor": "#df5548",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#df5548",
+    "navigationBarTitleText": "萌宠show",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#df5548",
+    "borderStyle": "white",
+    "backgroundColor":"#ffffff",
+    "list": [
+      {
+        "iconPath": "./images/index1-1.png",
+        "selectedIconPath": "./images/index1-2.png",
+        "pagePath": "pages/index/index",
+        "text": "精选"
+      },
+      {
+        "iconPath": "./images/my1-1.png",
+        "selectedIconPath": "./images/my1-2.png",
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  }
+}
