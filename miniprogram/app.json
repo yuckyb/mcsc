@@ -13,7 +13,7 @@
     "backgroundColor": "#df5548",
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#df5548",
-    "navigationBarTitleText": "萌宠show",
+    "navigationBarTitleText": "",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {

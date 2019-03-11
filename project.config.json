@@ -2,13 +2,14 @@
 	"miniprogramRoot": "miniprogram/",
 	"cloudfunctionRoot": "cloudfunctions/",
 	"setting": {
-		"urlCheck": true,
+		"urlCheck": false,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"autoAudits": false
 	},
-	"appid": "wx4a26f5b673e3cf43",
+	"appid": "wx12f404a8d32fd6e9",
 	"projectname": "mcsc",
 	"libVersion": "2.5.2",
 	"condition": {
